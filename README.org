@@ -1,0 +1,13 @@
+# title shouldn't appear in toc
+* Title :noexport:
+
+Links to hackathons and remote jobs during Covid19.
+
+* Links
+
+- https://covid-global-hackathon.devpost.com/
+- https://docs.google.com/spreadsheets/d/1cpOtCOWu_OooEB0LhWOTKj5Bt5dBunF2PFcDx11NXx0/htmlview?usp=sharing
+- https://www.reddit.com/r/MachineLearning/comments/fks234/nd_resources_and_channels_to_help_with_covid19/
+- https://docs.google.com/spreadsheets/u/1/d/1M-8J7z605dcPhUjYfyiKVxuci0e4AWsDLo_tvs19C5M/htmlview
+- https://docs.google.com/document/d/1VL3GqkwWWjXuK6MHGxGq81sOf0GJRr8Gxn5dlcHBXVk/edit
+- https://remoteml.com/
