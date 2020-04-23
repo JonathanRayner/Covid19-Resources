@@ -5,6 +5,7 @@ Links to hackathons and remote jobs during Covid19.
 
 * General Links
 
+- https://covintern.com/jobs/
 - https://covid-global-hackathon.devpost.com/
 - https://docs.google.com/spreadsheets/d/1cpOtCOWu_OooEB0LhWOTKj5Bt5dBunF2PFcDx11NXx0/htmlview?usp=sharing
 - https://www.reddit.com/r/MachineLearning/comments/fks234/nd_resources_and_channels_to_help_with_covid19/
