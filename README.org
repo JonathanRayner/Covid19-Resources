@@ -1,24 +1,21 @@
 # title shouldn't appear in toc
 *  Covid19 Resources                                               :noexport:
 
-Links to remote jobs, hackathons, tech-related relief efforts during Covid19.
+Links to remote jobs, hackathons, tech-related relief efforts during Covid19. Biased towards things I know how to do :)
 
 * General Links
 
-- https://covintern.com/jobs/
-- https://covid-global-hackathon.devpost.com/
-- https://docs.google.com/spreadsheets/d/1cpOtCOWu_OooEB0LhWOTKj5Bt5dBunF2PFcDx11NXx0/htmlview?usp=sharing
-- https://www.reddit.com/r/MachineLearning/comments/fks234/nd_resources_and_channels_to_help_with_covid19/
-- https://docs.google.com/spreadsheets/u/1/d/1M-8J7z605dcPhUjYfyiKVxuci0e4AWsDLo_tvs19C5M/htmlview
-- https://docs.google.com/document/d/1VL3GqkwWWjXuK6MHGxGq81sOf0GJRr8Gxn5dlcHBXVk/edit
-- https://remoteml.com/
-- [[https://docs.google.com/spreadsheets/d/1aXBq5edfzvOz22rot6JvMeKD0tRF9-w4fF500fIrvcs/edit#gid=1310906676][Less Wrong spreadsheet of volunteer positions and projects]]
-- [[https://github.com/FoldingAtHome/coronavirus][Folding at Home - Donate computer time]]
-- https://helpwithcovid.com/projects
+- [[https://covintern.com/jobs/][COVINTERN internship postings]]
+- [[https://docs.google.com/spreadsheets/d/1cpOtCOWu_OooEB0LhWOTKj5Bt5dBunF2PFcDx11NXx0/htmlview?usp=sharing][COVID-19 Global Hackathon Project List]]
+- [[https://docs.google.com/document/d/1VL3GqkwWWjXuK6MHGxGq81sOf0GJRr8Gxn5dlcHBXVk/edit][CS jobs google doc]]
+- [[https://remoteml.com/][RemoteML]]
+- [[https://docs.google.com/spreadsheets/d/1aXBq5edfzvOz22rot6JvMeKD0tRF9-w4fF500fIrvcs/edit#gid=1310906676][LessWrong Coronavirus Link Database]]
+- [[https://github.com/FoldingAtHome/coronavirus][Folding at Home - Donate computer time to COVID efforts]]
+- [[https://helpwithcovid.com/projects][Help with COVID - projects]]
 - [[https://www.codetriage.com/][Contributing to open source projects]]
   
 * Specific Covid19 Projects Looking for People
-- https://helpwithcovid.com/projects/363-covid-19-hospital-impact-model-for-epidemics-chime-app
-- https://helpwithcovid.com/projects/702-bugseq-automated-analyses-for-sars-cov-2-genomic-data
-- https://helpwithcovid.com/projects/165-git-based-collaboration-platform-at-scale
-- https://helpwithcovid.com/projects/178-ai-transformation-process-challenge-track-and-implement-innovation-in-mountain-rural-and-small-urban-communities-affected-by-covid19
+- [[https://helpwithcovid.com/projects/363-covid-19-hospital-impact-model-for-epidemics-chime-app][CHIME (COVID-19 Hospital Impact Model for Epidemics) Application]]
+- [[https://helpwithcovid.com/projects/702-bugseq-automated-analyses-for-sars-cov-2-genomic-data][BugSeq (bugseq.com) is an online bioinformatics platform empowering microbiology labs to get started with metagenomic sequencing]]
+- [[https://helpwithcovid.com/projects/165-git-based-collaboration-platform-at-scale][Enable users to form a self-organizing, decentralized, democratic community whereby each user has a direct impact on the consensus and decision making of the group]]
+- [[https://helpwithcovid.com/projects/178-ai-transformation-process-challenge-track-and-implement-innovation-in-mountain-rural-and-small-urban-communities-affected-by-covid19][PWG, Omdena AI challenge with Fruitpunch AI, we aim to help rural and mountain community governments and policymakers to make data-driven decisions in order to deal with pandemics]]
