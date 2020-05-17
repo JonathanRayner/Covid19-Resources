@@ -1,7 +1,7 @@
 # title shouldn't appear in toc
 *  Covid19 Resources                                               :noexport:
 
-Links to remote jobs, hackathons, tech-related relief efforts during Covid19. Biased towards things I know how to do :)
+Links to remote jobs, hackathons, tech-related relief efforts during Covid19. Biased towards things I might know how to do :)
 
 * General Links
 
